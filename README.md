@@ -1,2 +1,2 @@
 MYAPP
-Read Me 
+READ ME
